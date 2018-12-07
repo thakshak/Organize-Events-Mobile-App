@@ -3,7 +3,7 @@ Abstract:  In a big organization there are many events organized every day. To k
 
 # Screenshots
 
-![alt text](https://github.com/thakshak/Organize-Events-Mobile-App/blob/master/screenshots/loadingPage.png " ")
+![alt text](https://github.com/thakshak/Organize-Events-Mobile-App/blob/master/screenshots/loadingPage.jpg " ")
 ![alt text](https://github.com/thakshak/Organize-Events-Mobile-App/blob/master/screenshots/loginScreen.png " ")
 ![alt text](https://github.com/thakshak/Organize-Events-Mobile-App/blob/master/screenshots/welcomeScreen.png " ")
 ![alt text](https://github.com/thakshak/Organize-Events-Mobile-App/blob/master/screenshots/allEventsScreen.png " ")
@@ -12,6 +12,6 @@ Abstract:  In a big organization there are many events organized every day. To k
 ![alt text](https://github.com/thakshak/Organize-Events-Mobile-App/blob/master/screenshots/eventDetailsUnregisterdUser.png " ")
 ![alt text](https://github.com/thakshak/Organize-Events-Mobile-App/blob/master/screenshots/eventDetailsRegisterdUser.png " ")
 ![alt text](https://github.com/thakshak/Organize-Events-Mobile-App/blob/master/screenshots/eventDetailsCreator.png " ")
-![alt text](https://github.com/thakshak/Organize-Events-Mobile-App/blob/master/screenshots/createEvent.png " ")
+![alt text](https://github.com/thakshak/Organize-Events-Mobile-App/blob/master/screenshots/createEvent.jpg " ")
 ![alt text](https://github.com/thakshak/Organize-Events-Mobile-App/blob/master/screenshots/eventQRcodeScreen.png " ")
-![alt text](https://github.com/thakshak/Organize-Events-Mobile-App/blob/master/screenshots/scanCode.png " ")
+![alt text](https://github.com/thakshak/Organize-Events-Mobile-App/blob/master/screenshots/scanCode.jpg " ")
