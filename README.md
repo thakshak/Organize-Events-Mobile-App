@@ -4,7 +4,6 @@ Abstract:  In a big organization there are many events organized every day. To k
 
 # Screenshots
 
-![alt text](https://github.com/thakshak/Organize-Events-Mobile-App/blob/master/screenshots/loadingPage.jpg " ")
 ![alt text](https://github.com/thakshak/Organize-Events-Mobile-App/blob/master/screenshots/loginScreen.png " ")
 ![alt text](https://github.com/thakshak/Organize-Events-Mobile-App/blob/master/screenshots/welcomeScreen.png " ")
 ![alt text](https://github.com/thakshak/Organize-Events-Mobile-App/blob/master/screenshots/allEventsScreen.png " ")
